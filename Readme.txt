@@ -1,0 +1,3 @@
+因要將回傳的值顯示在視窗上，所以server端需要用JFrame表現，上面的文字用JLabel顯示。
+Client端需有三個頁面，ip_page, calculate_page,及result_page，切換頁面方式都與Lab10那次相同。
+將字串放進OutputStringt傳給Server，Server用InputString接受後改變JLabel所要顯示的即完成。
